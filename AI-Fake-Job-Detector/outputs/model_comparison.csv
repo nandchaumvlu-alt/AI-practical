@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1 Score
+Naive Bayes,1.0,1.0,1.0,1.0
+Decision Tree,1.0,1.0,1.0,1.0
+Logistic Regression,1.0,1.0,1.0,1.0

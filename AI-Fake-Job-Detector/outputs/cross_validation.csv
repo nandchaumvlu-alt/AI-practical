@@ -1,0 +1,4 @@
+Model,Mean F1,Std F1
+Naive Bayes,1.0,0.0
+Decision Tree,1.0,0.0
+Logistic Regression,1.0,0.0

@@ -1,0 +1,5 @@
+Model,CV Mean Accuracy
+Naive Bayes,0.9297314081664337
+Decision Tree,0.9279925477410339
+kNN,0.9630957925787922
+Logistic Regression,0.9736686849868033
